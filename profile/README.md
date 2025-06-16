@@ -11,8 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Welcome to LiDNY, a small tech project founded by SonicPika, later joined into by Wixetech, Katanium and Wineliko
+# Welcome to LiDNY
 
-Join us in our Discord!: https://dsc.gg/lidny
+We exist since 2021 and mostly make websites like [Koteyka's Files](https://github.com/LiDNY/KoteykaFiles)
 
-We Exist since 2021 and try to code the best stuff for you since
+We are just 3 people, and try to make the best stuff for you!
