@@ -16,3 +16,5 @@
 We exist since 2021 and mostly make websites like [Koteyka's Files](https://github.com/LiDNY/KoteykaFiles)
 
 We are just 3 people, and try to make the best stuff for you!
+
+[Discord Server](https://ldn.to/discord) | [Telegram Channel](https://t.me/lidnyonline) | [Website](https://lidny.org)
