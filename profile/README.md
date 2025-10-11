@@ -17,4 +17,4 @@ We exist since 2021 and mostly make websites like [Koteyka's Files](https://gith
 
 We are just 3 people, and try to make the best stuff for you!
 
-[Discord Server](https://ldn.to/discord) | [Telegram Channel](https://t.me/lidnyonline) | [Website](https://lidny.org)
+[Discord Server](https://ldn.to/discord) | [Telegram Channel](https://ldn.to/tg) | [Website](https://lidny.org)
