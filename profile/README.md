@@ -13,8 +13,9 @@
 
 # Welcome to LiDNY
 
-We exist since 2021 and mostly make websites like [Koteyka's Files](https://github.com/LiDNY/KoteykaFiles)
+We exist since 2021 and consist of 3 people
 
-We are just 3 people, and try to make the best stuff for you!
+Current projects:
+[LiDNY RP](https://github.com/LiDNY/rp.lidny)
 
 [Discord Server](https://ldn.to/discord) | [Telegram Channel](https://ldn.to/tg) | [Website](https://lidny.org)
