@@ -13,9 +13,9 @@
 
 # Welcome to LiDNY
 
-We exist since 2021 and consist of 3 people
+We exist since 2021 and consist of 6 people!
 
-Current projects:
-[LiDNY RP](https://github.com/LiDNY/rp.lidny)
+Current GitHub projects:
+[LiDNY RP](https://rp.lidny.org) | [Source code](https://github.com/LiDNY/rp.lidny)
 
-[Discord Server](https://ldn.to/discord) | [Telegram Channel](https://ldn.to/tg) | [Website](https://lidny.org)
+[Telegram Channel](https://ldn.to/tg) | [Website](https://lidny.org)
