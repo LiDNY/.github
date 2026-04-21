@@ -18,4 +18,4 @@ We exist since 2021 and consist of [6 people](https://wiki.lidny.org/LiDNY#Curre
 Current GitHub projects:
 [LiDNY RP](https://rp.lidny.org) | [Source code](https://github.com/LiDNY/rp.lidny)
 
-[Telegram Channel](https://ldn.to/tg) | [Website](https://lidny.org)
+[Telegram Channel](https://ldn.to/tg) | [Website](https://lidny.org) | [Forum](https://ldn.to/forum)
