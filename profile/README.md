@@ -13,7 +13,7 @@
 
 # Welcome to LiDNY
 
-We exist since 2021 and consist of 6 people!
+We exist since 2021 and consist of [6 people](https://wiki.lidny.org/LiDNY#Current_members)!
 
 Current GitHub projects:
 [LiDNY RP](https://rp.lidny.org) | [Source code](https://github.com/LiDNY/rp.lidny)
