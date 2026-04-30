@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Welcome to LiDNY
+<img width="1916" height="498" alt="banner" src="https://dl.lidny.org/images/banner-lidny-github.png" />
 
 We exist since 2021 and consist of [6 people](https://wiki.lidny.org/LiDNY#Current_members)!
 
