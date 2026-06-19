@@ -18,5 +18,6 @@ We exist since 2021 and consist of [6 people](https://wiki.lidny.org/LiDNY#Curre
 Current GitHub projects:<br>
 [LiDNY RP](https://rp.lidny.org) | [Source code](https://github.com/LiDNY/rp.lidny)
 <br>[KoteyOS](https://github.com/KoteyOS) (To begin dev)
+<br>[KoteyOS](https://github.com/venomatlidny)
 
 [Telegram Channel](https://ldn.to/tg) | [Website](https://lidny.org) | [Forum](https://ldn.to/forum)
